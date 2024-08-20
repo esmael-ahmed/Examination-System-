@@ -1,0 +1,14 @@
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.exe
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.deps.json
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.runtimeconfig.json
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.dll
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\bin\Debug\net6.0\Examination System.pdb
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfoInputs.cache
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.AssemblyInfo.cs
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.csproj.CoreCompileInputs.cache
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.dll
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\refint\Examination System.dll
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.pdb
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\Examination System.genruntimeconfig.cache
+D:\Route\Back (.NET)\Eng Aliaa Tarek\02 C#\Exam\Examination System Solution\Examination System\obj\Debug\net6.0\ref\Examination System.dll
